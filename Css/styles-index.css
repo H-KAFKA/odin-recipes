@@ -1,0 +1,9 @@
+body{
+    font-family: Consolas,Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #d1cbcb;
+}
+
+.cuerpo{
+    background-color: rgb(223, 184, 108);
+    padding: 10px 20px;
+}
